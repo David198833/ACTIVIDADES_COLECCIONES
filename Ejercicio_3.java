@@ -25,10 +25,9 @@ public class Ejercicio_3 {
             frase.add("saludo.");
 
 
-            // Recorrer el conjunto
-            for (String palabras : frase) {
-                System.out.println(palabras);
+
+                System.out.println(frase);
             }
         }
-    }
+
 
